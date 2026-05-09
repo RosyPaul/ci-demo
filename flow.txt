@@ -1,0 +1,3 @@
+create .github folder
+create workflows folder
+create a yaml file for CI : name,on(trigger),jobs(Action): name,runs-on,steps
